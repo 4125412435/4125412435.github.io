@@ -1,9 +1,9 @@
 ---
-title: "云计算实验3"  
+title: "Cloud Computing Experiment 3"  
 collection: experiment  
 category: report  
 permalink: /publication/2025-03-12-coursework-experiment3-number-1
-excerpt: '云计算实验3报告'  
+excerpt: 'Cloud Computing Experiment 3'  
 date: 2025-03-12  
 venue: 'SDU'  
 slidesurl: 'http://4125412435.github.io/files/ex_report.pdf'  
